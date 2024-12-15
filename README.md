@@ -23,6 +23,10 @@ As etapas para operação do projeto são descritas abaixo:
 4. Executar o comando `dotnet run` ou `dotnet watch run` para execução do projeto
 5. Acessar a pasta `Scripts` para criação do banco de dados e executá-los em seu gerenciador de banco de dados. O primeiro script a ser executado é o `myfinanceweb_DB.sql`
 
+## Diagrama arquitetural
+
+![288883694-f06b2fb3-00bd-4014-97ef-77237c82e404](https://github.com/user-attachments/assets/14752ad2-6fed-43ec-b9cc-ef73899c0487)
+
 ## Tecnologias utilizadas
 
 * [Visual Studio Code](https://code.visualstudio.com/download): Ambiente de desenvolvimento (IDE)
